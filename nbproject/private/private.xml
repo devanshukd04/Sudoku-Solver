@@ -4,8 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/devan/Documents/NetBeansProjects/JavaApplication2/src/HomePage.java</file>
+<<<<<<< HEAD
             <file>file:/C:/Users/devan/Documents/NetBeansProjects/JavaApplication2/src/successScreen.java</file>
             <file>file:/C:/Users/devan/Documents/NetBeansProjects/JavaApplication2/src/SudokoSolver.java</file>
+=======
+            <file>file:/C:/Users/devan/Documents/NetBeansProjects/JavaApplication2/src/SudokoSolver/SudokoSolver.java</file>
+>>>>>>> 538f0d60ac9dcba5b29d7d308973e7877d670cd5
         </group>
     </open-files>
 </project-private>
